@@ -1,0 +1,4 @@
+https://github.com/laramies/theHarvester
+https://github.com/Te-k/harpoon
+https://github.com/martinvigo/email2phonenumber
+https://github.com/fr4nc1stein/osint-framework
